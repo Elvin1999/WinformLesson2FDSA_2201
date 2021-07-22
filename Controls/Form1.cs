@@ -30,6 +30,7 @@ namespace Controls
         }
         private void saveBtn_Click(object sender, EventArgs e)
         {
+           // groupBox1.Controls.Add(radioButton3);
             //MessageBox.Show(textBox1.Text);
             //MessageBox.Show(textBox1.SelectedText);
         }
